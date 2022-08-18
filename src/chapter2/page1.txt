@@ -2,3 +2,5 @@ Chapter 2
 Why do I wait so long to do this work
 
 Now I am trying to rush before I have work
+
+Now I have to change this file after I already commit
